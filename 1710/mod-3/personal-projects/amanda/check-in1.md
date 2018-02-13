@@ -13,6 +13,10 @@ As a nomad, I've lived in a lot of cities. But every time I move to a new city, 
 #### APIs: Eventful API (http://api.eventful.com/)
 
 #### Wireframes
+![Welcome Page](https://i.imgur.com/QmIrBgd.png)
+
+![Main Landing Page](https://i.imgur.com/XW0YrSr.png)
+
 ![Music Landing Page](https://i.imgur.com/LAGhBu7.png)
 
 #### Waffle & Github

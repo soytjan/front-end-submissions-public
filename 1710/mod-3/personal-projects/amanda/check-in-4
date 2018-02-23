@@ -1,0 +1,29 @@
+## Project Name: The Know
+
+#### Check In: 3
+
+#### Progress made?
+* Upped my test count 
+* Moved logic to helper function and out of Search Welcome
+* Built an <ErrorBoundary /> component
+
+#### What deliverables still need to be completed from your last checkin?
+* Need to still make an error handling function that can be reused
+
+#### Next Steps?
+* Refactor how things are being stored -- from arrays to object
+* Refactor all the things that will be affected by that
+* Need to add in some sort of loading gif
+* Make the main events pull from events in the other categories
+* Get search bar working
+
+#### What are your concerns (if any)
+
+#### Deliverables for next checkin:
+
+- Move current location to `componentDidMount`
+- Move error handling to react  `componentDidCatch` error component 
+- Refactor `SearchWelcome` 
+  - move logic out of component 
+  - have reusable try catch function? 
+- Up your test count 
